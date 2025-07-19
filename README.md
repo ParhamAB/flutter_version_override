@@ -1,10 +1,10 @@
-# flutter_versian_override
+# flutter_version_override
 
 A simple CLI tool to **override the `version` field in `pubspec.yaml`** based on environment-specific YAML files — ideal for automating versioning in Flutter projects for multiple environments like development, testing, or production.
 
 ---
 
-## 🚀 Why use `flutter_versian_override`?
+## 🚀 Why use `flutter_version_override`?
 
 Managing multiple environments often requires different app versions for development, staging, and production. This tool helps you:
 
@@ -23,7 +23,7 @@ Managing multiple environments often requires different app versions for develop
 Clone or download this repository, then activate the package globally using Dart:
 
 ```bash
-dart pub global activate --source path .
+dart pub global activate flutter_version_override
 ```
 
 This will install the executable command `fvo` globally on your system.
