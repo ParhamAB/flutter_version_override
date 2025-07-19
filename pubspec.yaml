@@ -1,7 +1,7 @@
 name: flutter_version_override
 description: A CLI tool to override pubspec version using an env YAML.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/ParhamAB/flutter_version_override
 
 environment:
   sdk: ^3.6.1
